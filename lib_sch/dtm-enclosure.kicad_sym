@@ -6,7 +6,7 @@
     (property "Value" "DTM13-12Px-R008" (id 1) (at 20.32 5.08 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "lib_fp:DTM13-12Px-R008" (id 2) (at 20.32 3.556 0)
+    (property "Footprint" "kicad-dtm-enclosure:DTM13-12Px-R008" (id 2) (at 20.32 3.556 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FDTM13-12PX-R008%7FC%7Fpdf%7FEnglish%7FENG_CD_DTM13-12PX-R008_C.pdf" (id 3) (at 0 0 0)

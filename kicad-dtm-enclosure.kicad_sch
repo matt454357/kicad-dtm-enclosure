@@ -12,13 +12,13 @@
       (property "Value" "DTM13-12Px-R008" (id 1) (at 20.32 5.08 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "lib_fp:DTM13-12Px-R008" (id 2) (at 20.32 3.556 0)
+      (property "Footprint" "kicad-dtm-enclosure:DTM13-12Px-R008" (id 2) (at 20.32 3.556 0)
         (effects (font (size 1.524 1.524)) hide)
       )
       (property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FDTM13-12PX-R008%7FC%7Fpdf%7FEnglish%7FENG_CD_DTM13-12PX-R008_C.pdf" (id 3) (at 0 0 0)
         (effects (font (size 1.524 1.524)) hide)
       )
-      (property "ki_fp_filters" "CONN12_DTM13-12PA-R008_TEC" (id 4) (at 0 0 0)
+      (property "ki_fp_filters" "DTM13-12PA-R008_TEC" (id 4) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "DTM13-12Px-R008_1_1"
@@ -404,7 +404,7 @@
     (property "Value" "DTM13-12Px-R008" (id 1) (at 255.27 109.22 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "lib_fp:DTM13-12Px-R008" (id 2) (at 257.81 89.154 0)
+    (property "Footprint" "kicad-dtm-enclosure:DTM13-12Px-R008" (id 2) (at 257.81 89.154 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FDTM13-12PX-R008%7FC%7Fpdf%7FEnglish%7FENG_CD_DTM13-12PX-R008_C.pdf" (id 3) (at 237.49 92.71 0)
@@ -430,7 +430,7 @@
 
   (symbol_instances
     (path "/c423a343-2ddb-4623-bb67-fea63e504aa6"
-      (reference "J1") (unit 1) (value "DTM13-12Px-R008") (footprint "lib_fp:DTM13-12Px-R008")
+      (reference "J1") (unit 1) (value "DTM13-12Px-R008") (footprint "kicad-dtm-enclosure:DTM13-12Px-R008")
     )
   )
 )
