@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "kicad-dtm-enclosure")(type "KiCad")(uri "${KIPRJMOD}/lib_fp.pretty")(options "")(descr "DTM Enclosure Components"))
+)
